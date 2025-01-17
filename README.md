@@ -1,5 +1,5 @@
 # Executive AI Assistant
-
+test edit work
 Executive AI Assistant (EAIA) is an AI agent that attempts to do the job of an Executive Assistant (EA).
 
 For a hosted version of EAIA, see documentation [here](https://mirror-feeling-d80.notion.site/How-to-hire-and-communicate-with-an-AI-Email-Assistant-177808527b17803289cad9e323d0be89?pvs=4).
